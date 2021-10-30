@@ -1,0 +1,17 @@
+/* Usuario ADM
+Nome = Yago Russo
+Senha = 123
+Email = yagrrusso@gmail.com
+Cpf = 15914923867
+Adm = 1 (True)
+
+Senha de Exclusão de Roupas: excluir123
+*/
+
+/* Usuario Cliente
+Nome = Jaqueline Russo
+Senha = 123
+Email = jaqrusso@gmail.com
+Cpf = 87135973372
+Adm = 0 (False)
+*/
