@@ -1,4 +1,6 @@
 # Cactus E-Commerce
+![GitHub](https://img.shields.io/github/license/YaGRRusso/tcc-cactus-e-commerce)
+![GitHub Repo stars](https://img.shields.io/github/stars/YaGRRusso/tcc-cactus-e-commerce?style=social)
 
 ## Descrição
 Site e-commerce feito por mim como TCC no curso técnico de informática para internet pelo IFSul destinado à loja de roupas da minha mãe.
@@ -31,9 +33,9 @@ Todas as telas do sistemas são responsivas.
   <img src="https://user-images.githubusercontent.com/61320909/143522247-44a35426-1372-43bb-96b6-ec2a19c6697f.png"/>
   <img src="https://user-images.githubusercontent.com/61320909/143522248-4e29ce39-bbb9-41f4-b9f1-62db53c33271.png"/>
   <img src="https://user-images.githubusercontent.com/61320909/143522279-8b817438-0d9d-4f8e-9216-6a89f036bbbf.png"/>
+  <br/>
+  <h3>:computer:<a href="https://www.google.com">Visualizar Site</a></h3>
 </div>
-
-:computer: <a href="https://www.google.com">Visualizar Site</a>
 
 ## Tecnologias
 - HTML
@@ -42,6 +44,7 @@ Todas as telas do sistemas são responsivas.
 - Bootstrap
 - PHP
 - MySQL
+- jQuery
 
 ## Pré-Requisitos
 Para começar você irá precisar ter instalado em sua máquina as ferramentas: [Git](https://git-scm.com/), [Xampp](https://www.apachefriends.org/pt_br/index.html) e [MySQL](https://www.mysql.com).
@@ -56,6 +59,6 @@ git clone git@github.com:YaGRRusso/tcc-cactus-e-commerce.git
 ````
 
 ## Autor
-Yago Russo :wave:
+### Yago Russo :wave:
 :link: <a href="https://linkedin.com/in/yago-russo">LinkedIn</a>
 :link: <a href="https://github.com/YaGRRusso">GitHub</a>
